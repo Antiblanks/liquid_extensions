@@ -1,7 +1,7 @@
 require 'active_support/json'
 
 module Locomotive
-  module LiquidExtras
+  module LiquidExtensions
     module Filters
       module Json
 
